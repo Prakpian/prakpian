@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Prakpian Sribang
 
-🔭 **Full-Stack Developer in Training** 
-🌱 **Currently learning** PHP, WordPress, TypeScript
-😊 **I love ** Gaming + F1/NBA enthusiast
+🔭 **Full-Stack Developer in Training** <br />
+🌱 **Currently learning** PHP, WordPress, TypeScript <br />
+😊 **I love ** Gaming + F1/NBA enthusiast <br />
 
 ### **🛠️ Frontend Stack**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,7 +11,7 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)'
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **🛠️ Backend Stack**
